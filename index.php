@@ -1,5 +1,5 @@
 <?php
-$total_floor = 50;
+$total_floor = 50;//кооличество этажей
 $total_place = 50;
 $busy = false;
 $free = true;
