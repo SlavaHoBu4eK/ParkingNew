@@ -1,6 +1,6 @@
 <?php
-$total_floor = 50;
-$total_place = 50;
+$total_floor = 50;//кооличество этажей
+$total_place = 50; // кооличество мест
 $busy = false;
 $free = true;
 $parking = [];
